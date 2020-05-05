@@ -1,0 +1,35 @@
+nav{
+    background-color: #d17c39;
+    
+    
+}
+
+.brand-logo{
+    font-family:monospace;
+    color:#7a5370 !important;
+    font-style: inherit;   
+}
+
+.welcome{
+    float: left;
+}
+
+.welcome-main{
+    background-color: #5db8ca;
+}
+
+.description{
+    text-indent: 50px;
+    padding: 10px;
+    margin-left: 10px !important;
+    text-justify: inter-word; 
+}
+h4{
+    color: #d17c39;
+}
+p{
+   text-align: center; 
+}
+.description{
+
+}
